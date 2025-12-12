@@ -234,3 +234,5 @@ OpenAI API rate limits apply.
 📜 License
 
 MIT License
+
+<img width="1300" height="674" alt="image" src="https://github.com/user-attachments/assets/cba00462-3a3c-4958-a761-ede85c9d9f55" />
